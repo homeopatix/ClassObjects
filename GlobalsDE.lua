@@ -11,7 +11,7 @@ _G.T = {};
 	T[ "PluginName" ] = "ClassObjects";
 	T[ "PluginText" ] = "Von Homeopatix";
 	T[ "Loaded" ] = "Geladen";
-	T[ "Unactivated" ] = "Deaktiviert";
+	T[ "Unactivated" ] = "Beendet";
 	T[ "PluginOptionsWindowShow" ] = "Optionen werden angezeigt";
 	------------------------------------------------------------------------------------------
 	-- help --
@@ -29,11 +29,11 @@ _G.T = {};
 	------------------------------------------------------------------------------------------
 	-- command text  --
 	------------------------------------------------------------------------------------------
-	T[ "PluginWindowShow" ] = "Schaufenster.";
-	T[ "PluginWindowHide" ] = "verstecke das Fenster.";
-	T[ "PluginWindowClear" ] = "L\195\182schen Sie alle Verkn\195\188pfungen.";
-	T[ "PluginLocked" ] = "Gesperrte Symbole";
-	T[ "PluginUnlocked" ] = "Symbole freigeschaltet";
+	T[ "PluginWindowShow" ] = "Fenster wird angezeigt";
+	T[ "PluginWindowHide" ] = "Fenster wird ausgeblendet";
+	T[ "PluginWindowClear" ] = "Alle Verkn\195\188pfungen gel\195\182scht!";
+	T[ "PluginLocked" ] = "Verkn\195\188pfungen gesperrt";
+	T[ "PluginUnlocked" ] = "Verkn\195\188pfungen entsperrt";
 	T[ "PluginEscEnable" ] = "Escape-Taste aktiviert";
 	T[ "PluginEscDesable" ] = "Escape-Taste deaktiviert";
 	T[ "PluginAltEnable" ] = "Alt-Taste aktiviert";
@@ -41,9 +41,9 @@ _G.T = {};
 	------------------------------------------------------------------------------------------
 	-- Options --
 	------------------------------------------------------------------------------------------
-	T[ "PluginOptionsText" ] = "Optionsfenster";
+	T[ "PluginOptionsText" ] = "ClassObjects Optionen";
 	T[ "PluginOption1" ] = "Anzahl der Zeilen";
-	T[ "PluginOption2" ] = "Anzahl der Steckpl\195\164tze pro Zeile";
-	T[ "PluginOption3" ] = " Zeigen Sie den Fensterrand an";
-	T[ "PluginOption4" ] = " Fenster immer eingeschaltet anzeigen";
-	T[ "PluginOptionValidate" ] = "\195\132nderungen validieren";
+	T[ "PluginOption2" ] = "Anzahl der Spalten";
+	T[ "PluginOption3" ] = " Fensterrahmen anzeigen";
+	T[ "PluginOption4" ] = " Fenster dauerhaft anzeigen";
+	T[ "PluginOptionValidate" ] = "Speichern";
