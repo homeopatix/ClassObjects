@@ -1,3 +1,30 @@
+UPDATE V1.09
+(French)
+Réécrit complètement la partie localization
+(English)
+Completely rewrote the localization part
+(Deutsche)
+Der Lokalisierungsteil wurde komplett neu geschrieben
+
+UPDATE V1.08
+(French)
+Ajout de la nouvelle classe, le Marin
+(English)
+Added the new class, the Mariner
+(Deutsche)
+Die neue Klasse, der Mariner, wurde hinzugefügt
+
+UPDATE V1.07
+(French)
+Rajout d'une commande toggle
+Rajout d'une commande lock
+(English)
+Addition of a toggle command
+Addition of a lock command
+(Deutsche)
+Hinzufügen eines Umschaltbefehls
+Hinzufügen eines Sperrbefehls
+
 UPDATE V1.06
 (French)
 Rajout de la nouvelle classe le bagarreur
